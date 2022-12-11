@@ -1,14 +1,10 @@
 #include<unistd.h>
-
 /**
+ * main - entry point
  *
- *  * main - entry point
+ * Return: using char string
  *
- *   *
- *
- *    * Return: Using char string
- *
- *     */
+ * */
 
 int main(void)
 
