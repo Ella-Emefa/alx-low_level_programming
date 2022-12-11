@@ -4,7 +4,7 @@
  *
  * Return: using char string
  *
- * */
+ */
 
 int main(void)
 
