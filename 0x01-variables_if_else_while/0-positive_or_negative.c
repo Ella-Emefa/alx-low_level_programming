@@ -1,13 +1,13 @@
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
-	
+
 /**
 * main - entry point
-*	
-* Description: this script shows the negative, positive and zero values	
 *
-* Return: Always 0 (Success)	
+* Description: this script shows the negative, positive and zero values
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
