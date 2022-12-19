@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - two digits	
+* main - two digits
 *
 * Return: 0
 */
